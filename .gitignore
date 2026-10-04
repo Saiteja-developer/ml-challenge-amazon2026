@@ -1,0 +1,4 @@
+.terminal_history.json
+__pycache__/
+*.pyc
+output/*.tsv
